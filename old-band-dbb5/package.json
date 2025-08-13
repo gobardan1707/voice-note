@@ -11,8 +11,15 @@
 	},
 	"devDependencies": {
 		"@cloudflare/vitest-pool-workers": "^0.8.19",
+		"@types/node": "^24.2.1",
 		"typescript": "^5.5.2",
 		"vitest": "~3.2.0",
 		"wrangler": "^4.29.1"
+	},
+	"dependencies": {
+		"@iconify-json/heroicons": "^1.2.2",
+		"@nuxt/ui": "^3.3.0",
+		"@vueuse/core": "^13.6.0",
+		"nuxt": "^4.0.3"
 	}
 }
